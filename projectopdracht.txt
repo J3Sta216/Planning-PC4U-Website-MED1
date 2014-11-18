@@ -1,7 +1,12 @@
 Een vriend van jou heeft het plan een computershop te beginnen. 
 Hij gaat notebooks en samengestelde desktop PC’s verkopen. 
-Verder wil hij allerhande computeronderdelen gaan leveren, zoals monitoren, harddisks, e.d. 
+Verder wil hij allerhande computeronderdelen gaan leveren, 
+zoals monitoren, harddisks, e.d. 
 Tenslotte wordt er een reparatiedienst opgezet. 
-Hij is er erg druk mee en heeft jou gevraagd om een opzet (een prototype) van een website voor deze computerwinkel te maken. 
-Het gaat in eerste instantie om een website, waarmee hij de producten en diensten kan presenteren. 
-Te zijner tijd wordt het een dynamische website, een webshop, waarop de klanten direct kunnen bestellen, maar dit ligt nu nog niet binnen de opdracht!
+Hij is er erg druk mee en heeft jou gevraagd om een opzet 
+(een prototype) van een website voor deze computerwinkel te maken. 
+Het gaat in eerste instantie om een website, waarmee hij de 
+producten en diensten kan presenteren. 
+Te zijner tijd wordt het een dynamische website, een webshop, 
+waarop de klanten direct kunnen bestellen, maar dit ligt nu nog 
+niet binnen de opdracht!
