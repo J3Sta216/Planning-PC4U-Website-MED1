@@ -88,6 +88,19 @@ section {
 	font-size: 25px;
 }
 
+.computers{
+	width: 196px;
+	height: 350px;
+	background: red;
+	float: left;
+	margin: 150px 20px 0px 20px;
+
+}
+
+h2{
+	text-align: center;
+}
+
 aside {
 	width: 250px;
 	height: 545px;
@@ -109,3 +122,14 @@ footer {
 	background: pink;
 	margin: 0 auto;
 }
+
+
+
+
+
+
+
+
+
+
+
