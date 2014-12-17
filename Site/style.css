@@ -9,7 +9,7 @@ body {
 
 header {
 	width: 960px;
-	height: 200px;
+	height: 180px;
 	margin: 0 auto;
 	overflow: hidden;
 }
@@ -25,6 +25,7 @@ header {
 	height: 100px;
 	width: 320px;
 	float: left;
+	color: #d7a369;
 }
 
 .page-name h1 {
@@ -50,33 +51,56 @@ nav li {
 	width: 120px;
 
 	padding: 10px 0px 10px 0px;
-	background: blue;
+	background: #f5f5db;
 }
 
 nav a {
 	text-align: center;
-	color: white;
+	color: #cd853f;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
 }
 
 section {
 	width: 960px;
-	height: 700px;
-	background: green;
 	margin: 0 auto;
+	overflow: hidden;
 }
 
 .content {
 	float: left;
-	width: 700;
-	background: red;
+	width: 700px;
+}
 
+.product-home {
+	width: 600px;
+	height: 250px;
+	margin: 40px auto;
+	border: 2px solid;
+	background: white;
+}
+
+.product-home h2 {
+	background: #f5f5db;
+	color: #cd853f;
+	padding-left: 10px;
+	font-size: 25px;
 }
 
 aside {
 	width: 250px;
-	height: 700px;
-	background: yellow;
+	height: 545px;
 	float: right;
+	margin-top: 40px;
+	border: 2px solid black;
+	background: white;
+}
+
+aside h2 {
+	color: #cd853f;
+	background: #f5f5db;
+	font-size: 25px;
 }
 
 footer {
