@@ -1,0 +1,60 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background: #ede8e8;
+}
+
+header {
+	width: 960px;
+	height: 200px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.logo {
+	height: 100px;
+	width: 310px;
+	float: left;
+	padding-left: 10px
+}
+
+.page-name {
+	height: 100px;
+	width: 320px;
+	float: left;
+}
+
+.page-name h1 {
+	text-align: center;
+	font-size: 40px;
+	padding-top: 30px;
+} 
+
+.search {
+	height: 100px;
+	width: 320px;
+	float: left;
+}
+
+nav {
+	width: 960px;
+	height: 100px;
+	text-align: center;
+}
+
+nav li {
+	display: inline-block;
+	width: 120px;
+
+	padding: 10px 0px 10px 0px;
+	background: blue;
+}
+
+nav a {
+	text-align: center;
+	color: white;
+}
+
