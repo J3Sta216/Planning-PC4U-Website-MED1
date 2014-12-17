@@ -58,3 +58,30 @@ nav a {
 	color: white;
 }
 
+section {
+	width: 960px;
+	height: 700px;
+	background: green;
+	margin: 0 auto;
+}
+
+.content {
+	float: left;
+	width: 700;
+	background: red;
+
+}
+
+aside {
+	width: 250px;
+	height: 700px;
+	background: yellow;
+	float: right;
+}
+
+footer {
+	width: 960px;
+	height: 100px;
+	background: pink;
+	margin: 0 auto;
+}
