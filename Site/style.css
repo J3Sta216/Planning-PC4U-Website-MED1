@@ -82,23 +82,36 @@ section {
 }
 
 .product-home h2 {
-	background: #f5f5db;
-	color: #cd853f;
 	padding-left: 10px;
 	font-size: 25px;
 }
 
 .computers{
-	width: 196px;
+	width: 190px;
 	height: 350px;
-	background: red;
+	background: white;
 	float: left;
-	margin: 150px 20px 0px 20px;
+	margin: 40px 20px 0px 20px;
+	border: 2px solid black;
 
+}
+
+.desktop{
+	margin: 50px 0px 0px 10px;
+}
+
+.laptop{
+	margin: 70px 0px 0px 10px;
+}
+
+.all-in-one{
+	margin: 50px 0px 0px 5px;
 }
 
 h2{
 	text-align: center;
+	background: #f5f5db;
+	color: #cd853f;
 }
 
 aside {
