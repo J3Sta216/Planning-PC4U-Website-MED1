@@ -44,13 +44,12 @@ nav {
 	width: 960px;
 	height: 100px;
 	text-align: center;
-	padding: 
 }
 
 nav li {
 	display: inline-block;
 	width: 120px;
-
+	border: 2px solid;
 	padding: 10px 0px 10px 0px;
 	background: #f5f5db;
 }
@@ -74,42 +73,7 @@ section {
 	width: 700px;
 }
 
-.product-home {
-	width: 600px;
-	height: 250px;
-	margin: 40px auto;
-	border: 2px solid;
-	background: white;
-}
-
-.product-home h2 {
-	padding-left: 10px;
-	font-size: 25px;
-}
-
-.computers{
-	width: 190px;
-	height: 350px;
-	background: white;
-	float: left;
-	margin: 40px 20px 0px 20px;
-	border: 2px solid black;
-
-}
-
-.desktop{
-	margin: 50px 0px 0px 10px;
-}
-
-.laptop{
-	margin: 70px 0px 0px 10px;
-}
-
-.all-in-one{
-	margin: 50px 0px 0px 5px;
-}
-
-h2{
+h2 {
 	text-align: center;
 	background: #f5f5db;
 	color: #cd853f;
@@ -117,7 +81,7 @@ h2{
 
 aside {
 	width: 250px;
-	height: 545px;
+	height: 600px;
 	float: right;
 	margin-top: 40px;
 	border: 2px solid black;

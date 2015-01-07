@@ -1,0 +1,56 @@
+.computers{
+	width: 190px;
+	height: 350px;
+	background: white;
+	float: left;
+	margin: 40px 20px 0px 20px;
+	border: 2px solid black;
+
+}
+
+.desktop{
+	margin: 50px 0px 0px 10px;
+}
+
+.laptop{
+	margin: 70px 0px 0px 10px;
+}
+
+.all-in-one{
+	margin: 50px 0px 0px 5px;
+}
+
+.desktops {
+	width: 270px;
+	height: 350px;
+	background: white;
+	float: left;
+	margin: 40px 20px 0px 20px;
+	border: 2px solid black;
+}
+
+.desktopIMG {
+	margin: 50px 0px 0px 10px;
+}
+
+.product {
+	width: 600px;
+	background: white;
+	margin: 40px auto;
+	border: 2px solid;
+	overflow: hidden;
+}
+
+.product img {
+	padding: 20px 0px 20px 20px;
+	float: left; 
+}
+
+.product-info {
+	float: right;
+	width: 65%;
+}
+
+.product-info p {
+	
+}

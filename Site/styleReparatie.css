@@ -1,0 +1,36 @@
+.reparatie {
+	width: 600px;
+	background: white;
+	margin: 40px auto;
+	border: 2px solid;
+	overflow: hidden;
+}
+
+p {
+	padding: 10px;
+	font-size: 1.1em;
+}
+
+.gegevens {
+	width: 400px;
+	height: 20px;
+	margin: 20px 0px 10px 3px;
+}
+
+.problem {
+	margin: 20px 30px 10px 10px;
+	float: left;
+}
+
+form h2 {
+	margin-top: 20px;
+	border-top: 2px solid black;
+}
+
+td {
+	padding-left: 10px;
+}
+
+textarea {
+    max-width: 400px;
+}

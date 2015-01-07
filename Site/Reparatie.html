@@ -2,7 +2,8 @@
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="style.css">
-	<title></title>
+	<link rel="stylesheet" type="text/css" href="styleReparatie.css">
+	<title>PC4U</title>
 </head>
 <body>
 	<header>
@@ -10,7 +11,7 @@
 		<img src="images/Logo_PC4U(1).png">
 		</div>
 		<div class="page-name">
-		<h1> Home </h1>
+		<h1> Reparatie </h1>
 		</div>
 		<div class="search">
 		<form>
@@ -20,7 +21,7 @@
 		</div>
 		<nav>
 			<ul>
-				<li><a href="Home.html">Home</a></li>
+				<li><a href="index.html">Home</a></li>
 				<li><a href="Computers.html">Computers</a></li>
 				<li><a href="Shop.html">Shop</a></li>
 				<li><a href="Reparatie.html">Reparatie</a></li>
@@ -30,9 +31,47 @@
 	</header>
 	<section>
 		<div class="content">
+			<div class="reparatie">
+				<h2> Apparaat kapot? </h2>
+				<p> Wilt u uw apparaat opsturen naar ons? Vul het formulier hieronder in. Anders kom even langs bij ons in de winkel en we kijken samen even wat we kunnen betekenen voor u. Voor informatie over onze winkel ga naar <a href="Informatie.html">Informatie</a>. </p>
+				<form>
+		    	<h2> Contact formulier </h2>
+		    	<table>
+		    		<tr>
+						<td> <label for="Voornaam"> Voornaam:</label> </td>
+						<td> <input class="gegevens" type="text" id="Voornaam" required> </td>
+					</tr>
+					<tr>
+						<td> <label for="Achternaam"> Achternaam:</label> </td>
+						<td> <input class="gegevens" type="text" id="Achternaam" required> </td>
+					</tr>
+					<tr>
+						<td> <label for="E-mail"> E-mail:</label> </td>
+						<td> <input class="gegevens" type="text" id="E-mail" required> </td>
+					</tr>
+					<tr>
+						<td> <label for="Straat"> Straat:</label> </td>
+						<td> <input class="gegevens" type="text" id="Straat" required> </td>
+					</tr>
+					<tr>
+						<td> <label for="Huisnummer"> Huisnummer:</label> </td>
+						<td> <input class="gegevens" type="text" id="Huisnummer" required> </td>
+					</tr>
+					<tr>
+						<td> <label for="Postcode"> Postcode:</label> </td>
+						<td> <input class="gegevens" type="text" id="Postcode" required> </td>
+					</tr>
+			    	</table>
+
+					<label class="problem" for="Problem"> Probleem: </label>
+					<textarea class="problem" id="Problem" cols="55" rows="5"></textarea>
+		       
+				</form>
+			</div>
 		</div>
 
 		<aside>
+		<h2> Winkelwagen: </h2>
 		</aside>
 	</section>
 
