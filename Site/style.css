@@ -79,6 +79,124 @@ h2 {
 	color: #cd853f;
 }
 
+.box {
+	background: white;
+	float: left;
+	margin: 40px 20px 0px 20px;
+	border: 2px solid black;
+	overflow: hidden;
+}
+.product {
+	width: 600px;
+	background: white;
+	margin: 40px auto;
+	border: 2px solid;
+	overflow: hidden;
+}
+
+.product img {
+	padding: 20px 0px 20px 20px;
+	float: left; 
+}
+
+.product-info {
+	float: right;
+	width: 65%;
+	min-height: 300px;
+}
+
+.prijs {
+	width: 150px;
+	height: 100px;
+	float: left;
+	margin-left: 20px; 
+}
+
+.prijs p {
+	font-size: 3em;
+	font-weight: bold;
+}
+
+/* index.html */
+.product-home {
+	width: 600px;
+	height: 278px;
+}
+
+.product-home h2 {
+	padding-left: 10px;
+	font-size: 25px;
+}
+
+
+/* Reparatie.html */
+
+.reparatie {
+	width: 600px;
+}
+
+.reparatie p {
+	padding: 10px;
+	font-size: 1.1em;
+}
+
+.gegevens {
+	width: 400px;
+	height: 20px;
+	margin: 20px 0px 10px 3px;
+}
+
+.problem {
+	margin: 20px 30px 10px 10px;
+	float: left;
+}
+
+form h2 {
+	margin-top: 20px;
+	border-top: 2px solid black;
+}
+
+.reparatie td {
+	padding-left: 10px;
+}
+
+textarea {
+    max-width: 400px;
+}
+
+
+/* Informatie.html */
+
+.informatie {
+	width: 600px;
+}
+
+.winkelinfo {
+	height: 200px;
+	float: right;
+	width: 280px;
+	padding: 10px 0px 0px 0px;
+}
+
+.winkelinfo:last-of-type {
+	margin-right: 0px;
+}
+
+.winkelinfo td {
+	padding-right: 20px;
+}
+
+#map {
+	width: 50%;
+	height: 573px;
+	margin-left: 0;
+	float: left;
+}
+
+
+
+
+
 aside {
 	width: 250px;
 	height: 600px;
