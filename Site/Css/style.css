@@ -48,6 +48,16 @@ header {
 	float: left;
 }
 
+.search .btnSearch {
+	height: 20px;
+	width: 75px;
+	color: #cd853f;
+	font-size: 0.8em;
+	font-weight: bold;
+	border: 2px solid black;
+	background: #f5f5db;
+}
+
 .aanbieding {
 	padding: 140px 30px 0px 0px;
 	float: right;
@@ -84,6 +94,7 @@ header {
 	color: black;
 	background: none;
 }
+
 
 nav {
 	width: 960px;
