@@ -263,10 +263,13 @@ textarea {
 	height: 40px;
 	font-size: 1.3em;
 	border: 2px solid black;
+	transition: 1.4s;
 }
 
 .send:hover {
-	border: 5px solid black;
+	height: 50px;
+	width: 220px;
+	transition: 1.4s;
 	cursor: pointer;
 }
 
