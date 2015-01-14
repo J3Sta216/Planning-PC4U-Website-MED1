@@ -145,7 +145,7 @@ h2 {
 .product {
 	width: 600px;
 	background: white;
-	margin: 40px auto;
+	margin: 40px 22px;
 	border: 2px solid;
 	overflow: hidden;
 }
