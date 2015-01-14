@@ -138,7 +138,7 @@ h2 {
 .box {
 	background: white;
 	float: left;
-	margin: 40px 20px 0px 20px;
+	margin: 40px 20px 20px 20px;
 	border: 2px solid black;
 	overflow: hidden;
 }
@@ -174,7 +174,9 @@ h2 {
 	font-weight: bold;
 }
 
-/* index.html */
+
+
+									/* index.html */
 .product-home {
 	width: 600px;
 	height: 278px;
@@ -186,7 +188,37 @@ h2 {
 }
 
 
-/* Reparatie.html */
+
+
+									/* Informatie.html */
+
+.informatie {
+	width: 600px;
+}
+
+.winkelinfo {
+	height: 200px;
+	float: right;
+	width: 280px;
+	padding: 10px 0px 0px 0px;
+}
+
+.winkelinfo:last-of-type {
+	margin-right: 0px;
+}
+
+.winkelinfo td {
+	padding-right: 20px;
+}
+
+#map {
+	width: 50%;
+	height: 573px;
+	margin-left: 0;
+	float: left;
+}
+
+									/* Reparatie.html */
 
 .reparatie {
 	width: 600px;
@@ -238,37 +270,7 @@ textarea {
 	cursor: pointer;
 }
 
-
-/* Informatie.html */
-
-.informatie {
-	width: 600px;
-}
-
-.winkelinfo {
-	height: 200px;
-	float: right;
-	width: 280px;
-	padding: 10px 0px 0px 0px;
-}
-
-.winkelinfo:last-of-type {
-	margin-right: 0px;
-}
-
-.winkelinfo td {
-	padding-right: 20px;
-}
-
-#map {
-	width: 50%;
-	height: 573px;
-	margin-left: 0;
-	float: left;
-}
-
-
-/* Shop.html */
+									/* Shop.html */
 
 .shop-box {
 	width: 300px;
@@ -287,6 +289,7 @@ aside {
 	height: 600px;
 	float: right;
 	margin-top: 40px;
+
 	border: 2px solid black;
 	background: white;
 }
